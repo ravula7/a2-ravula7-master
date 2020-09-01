@@ -2,7 +2,7 @@ package a2;
 
 import java.util.Scanner;
 import java.util.ArrayList;
-public class A2Adept {
+public class a2.A2Adept {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
