@@ -2,11 +2,11 @@ package a2;
 
 import java.util.Scanner;
 import java.util.ArrayList;
-public class a2.A2Adept {
+
+public class A2Adept {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
-
 		int ingredients = scan.nextInt();
 
 		String[] name = new String[ingredients];
@@ -97,4 +97,8 @@ public class a2.A2Adept {
 		}
 
 	}
-}
+
+	}
+	
+	// You can define helper methods here if needed.
+	

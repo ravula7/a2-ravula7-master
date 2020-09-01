@@ -1,13 +1,12 @@
 package a2;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
-public class a2.A2Jedi {
+public class A2Jedi {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
-		int ingredients = scan.nextInt();
+		/*int ingredients = scan.nextInt();
 
 		String[] name = new String[ingredients];
 		double[] price = new double[ingredients];
@@ -60,7 +59,7 @@ public class a2.A2Jedi {
 		for(int i=0; i<menuOrders.size();i++){
 			for(int j=0; j<menuName.length;j++){
 				if(menuName[j].equals(menuOrders.get(i))){
-					for(int k=0; k<ingredientName.clone.size();)
+					//for(int k=0; k<ingredientName.clone.size();)
 
 					ingredientRequired.add(ingredientReq);
 					ouncesRequired.add(ouncesReq);
@@ -73,8 +72,8 @@ public class a2.A2Jedi {
 
 		System.out.println("This order will require: ");
 		for(int i=0; i<menuRequirements.size();i++){
-			(ouncesRequired.get(i)+" ounces of "+ingredientRequired.get(i));
-		}
+			//(ouncesRequired.get(i)+" ounces of "+ingredientRequired.get(i));
+		}*/
 
 		// Your code here.
 	}
